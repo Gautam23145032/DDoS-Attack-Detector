@@ -259,7 +259,7 @@ backend/
 ├── utils/
 │   └── riskScore.js
 │
-├── middleware/
+├── routes/
 │   └── trafficLogger.js
 │
 ├── jobs/
@@ -273,7 +273,7 @@ frontend/
 ├── src/
 │   ├── components/
 │   ├── pages/
-│   ├── hooks/
+│   ├── services/
 │   └── App.jsx
 │
 └── package.json
